@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "accordion-collapse-react-native": "^0.1.7",
-    "expo": "^30.0.1",
+    "expo": "^46.0.14",
     "moment": "^2.22.2",
     "react": "16.2.0",
     "react-native": "github:expo/react-native#sdk-30.0.0",
